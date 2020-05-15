@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/VintageRP/static/js/main.bc784b23.chunk.js",
+    "main.js.map": "/VintageRP/static/js/main.bc784b23.chunk.js.map",
+    "runtime-main.js": "/VintageRP/static/js/runtime-main.d0d679f1.js",
+    "runtime-main.js.map": "/VintageRP/static/js/runtime-main.d0d679f1.js.map",
+    "static/css/2.f4857a93.chunk.css": "/VintageRP/static/css/2.f4857a93.chunk.css",
+    "static/js/2.9cbd9e83.chunk.js": "/VintageRP/static/js/2.9cbd9e83.chunk.js",
+    "static/js/2.9cbd9e83.chunk.js.map": "/VintageRP/static/js/2.9cbd9e83.chunk.js.map",
+    "index.html": "/VintageRP/index.html",
+    "precache-manifest.9380d369e0c0f5e22cdb0881eda7934d.js": "/VintageRP/precache-manifest.9380d369e0c0f5e22cdb0881eda7934d.js",
+    "service-worker.js": "/VintageRP/service-worker.js",
+    "static/css/2.f4857a93.chunk.css.map": "/VintageRP/static/css/2.f4857a93.chunk.css.map",
+    "static/js/2.9cbd9e83.chunk.js.LICENSE.txt": "/VintageRP/static/js/2.9cbd9e83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0d679f1.js",
+    "static/css/2.f4857a93.chunk.css",
+    "static/js/2.9cbd9e83.chunk.js",
+    "static/js/main.bc784b23.chunk.js"
+  ]
+}
