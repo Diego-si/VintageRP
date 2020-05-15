@@ -1,0 +1,11 @@
+export const primaryColor = '#F1E2F6';
+export const secondColor = '#8C66C2';
+export const thirdColor = '#DA2AE1';
+export const fourthColor = '#9F1BD7';
+export const fithColor = '#6A14B9';
+export const sithColor = '#4D1181';
+export const seventhColor = '#4D1181';
+export const octavColor = '#4D1181';
+export const ninthColor = '#2B1480';
+export const tenthDarkColor = '#2C0A54';
+export const eleventhDarkColor = '#110429';
